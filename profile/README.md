@@ -5,6 +5,14 @@ A dynamic web platform that empowers users to create, sell, and learn from AI-en
 
 ---
 
+## 🔗 Project Links
+
+- 🚀 **Frontend Repository:** [neurolearn_frontend](https://github.com/TheLoopersDev/neurolearn_frontend)
+- 🌐 **Live Site (Frontend Deployed):** [neurolearnfrontend.vercel.app](https://neurolearnfrontend.vercel.app)
+- 🧠 **Backend Repository:** *Coming soon...*
+
+---
+
 ## 👥 Team Members – `theLoopersDev`
 
 | Name                | Student Code | Email                                | Role   |
@@ -59,21 +67,29 @@ AITM is an AI-integrated learning platform that allows users to:
 
 ### 🔧 Backend
 - `Node.js`, `Next.js (App Router)`
-- `MongoDB` for data management
-- AI Integration via:
-  - `ChatGPT API`
-  - `Python AI Models` (TensorFlow, PyTorch)
-- Cloud Deployment: `Vercel`, `AWS`, `GCP`, `Azure`
+- `MongoDB`
+- `ChatGPT API`, `TensorFlow`, `PyTorch`
+- `AWS`, `Vercel`, `GCP`
 
 ### 💻 Frontend
-- `React.js`, `Next.js (Web)`
+- `React.js`, `Next.js`
 - Responsive design for both desktop and mobile
 
 ### 🧠 Applied AI
 - ChatGPT
-- AI cloud services for text generation and classification
+- AI cloud services
 
 ---
 
-## 📂 Project Structure
+## 📦 Getting Started
 
+```bash
+# Clone the frontend repo
+git clone https://github.com/TheLoopersDev/neurolearn_frontend.git
+cd neurolearn_frontend
+
+# Install dependencies
+npm install
+
+# Start dev server
+npm run dev
