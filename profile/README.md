@@ -8,8 +8,7 @@ A dynamic web platform that empowers users to create, sell, and learn from AI-en
 ## 🔗 Project Links
 
 - 🚀 **Frontend Repository:** [neurolearn_frontend](https://github.com/TheLoopersDev/neurolearn_frontend)
-- 🌐 **Live Site (Frontend Deployed):** [neurolearnfrontend.vercel.app](neurolearn-sooty.vercel.app
-)
+- 🌐 **Live Site (Frontend Deployed):** [neurolearn-sooty.vercel.app](neurolearn-sooty.vercel.app)
 - 🧠 **Backend Repository:** *Coming soon...*
 
 ---
