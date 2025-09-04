@@ -1,87 +1,95 @@
 # 🎓 AITM - AI-Powered Training & Marketplace Platform
 
-> "Learn. Teach. Engage."  
-A dynamic web platform that empowers users to create, sell, and learn from AI-enhanced online courses. Built as the Capstone Project by `theLoopersDev` team, SE17C.NJS class.
+> *"Learn. Teach. Engage."*  
+🚀 A dynamic AI-powered platform that empowers learners, instructors, and enterprises to **create, sell, and learn from online courses**.  
+Capstone Project by **`theLoopersDev`** team – SE17C.NJS class.  
 
 ---
 
-## 🔗 Project Links
+## 🔗 Project Links  
 
-- 🚀 **Frontend Repository:** [neurolearn_frontend](https://github.com/TheLoopersDev/neurolearn_frontend)
-- 🌐 **Live Site (Frontend Deployed):** [neurolearn-sooty.vercel.app](https://neurolearn-sooty.vercel.app)
-- 🧠 **Backend Repository:** *Coming soon...*
+- 💻 **Frontend Repository:** [neurolearn_frontend](https://github.com/TheLoopersDev/neurolearn_frontend)  
+- ⚙️ **Backend Repository:** [neurolearn_backend](https://github.com/TheLoopersDev/neurolearn_backend)  
+- 📱 **Mobile App Repository:** [Academix_Mobile](https://github.com/TheLoopersDev/Academix_Mobile)  
+- 🎨 **Figma Design:** [Academix Figma Prototype](https://www.figma.com/design/ZTTemVbkjZrpyNx7q1aM9o/Academix-IT?node-id=0-1&p=f&t=Rgy2ENC0kNtkNF1W-0)  
+- 🌐 **Live Site:** [academix.id.vn](https://academix.id.vn)  
 
 ---
 
 ## 👥 Team Members – `theLoopersDev`
 
-| Name                | Student Code | Email                                | Role   |
-|---------------------|--------------|---------------------------------------|--------|
-| Âu Công Danh         | QE170170     | danhacqe170170@fpt.edu.vn             | 🧠 Team Leader |
-| Lê Nguyễn Phúc Anh  | QE170043     | anhlnpqe170043@fpt.edu.vn             | 💻 Developer |
-| Lê Phước Thắng      | QE170122     | thanglpqe170122@fpt.edu.vn            | 💻 Developer |
-| Tô Thế Vĩ           | QE170234     | vittqe170234@fpt.edu.vn               | 💻 Developer |
-| Lê Mạnh Hùng        | QE170213     | hunglmqe170213@fpt.edu.vn             | 💻 Developer |
+| 👤 Name             | 🆔 Student Code | 📧 Email                            
+|---------------------|-----------------|--------------------------------------|
+| Âu Công Danh        | QE170170        | danhacqe170170@fpt.edu.vn            | 
+| Lê Nguyễn Phúc Anh  | QE170043        | anhlnpqe170043@fpt.edu.vn            | 
+| Lê Phước Thắng      | QE170122        | thanglpqe170122@fpt.edu.vn           | 
+| Tô Thế Vĩ           | QE170234        | vittqe170234@fpt.edu.vn              | 
+| Lê Mạnh Hùng        | QE170213        | hunglmqe170213@fpt.edu.vn            | 
 
-**Supervisor**: Mr. Huỳnh Vang – [`vangh@fe.edu.vn`](mailto:vangh@fe.edu.vn)
-
----
-
-## 📌 Project Overview
-
-AITM is an AI-integrated learning platform that allows users to:
-- **Learn**: Enroll in curated, AI-recommended courses.
-- **Teach**: Create and sell personalized courses, assisted by AI content generators.
-- **Engage**: Interact with an AI chatbot for deeper understanding and instant help.
+**Supervisor:** Mr. Huỳnh Vang – 📩 [vangh@fe.edu.vn](mailto:vangh@fe.edu.vn)
 
 ---
 
-## 🚀 Key Features
+## 📌 Project Overview  
 
-### 🛒 Course Marketplace
-- Browse, purchase, and enroll in high-quality courses.
-- AI-based recommendation system for personalized content.
-
-### ✍️ Course Creation & AI Support
-- Instructors can create video-based and interactive courses.
-- Use AI to generate course content, slides, quizzes.
-
-### 💬 AI-Powered Chatbot
-- Learners can ask the chatbot questions about lessons.
-- AI suggests additional resources and summarizes content.
-
-### 🧾 Revenue & Payment System
-- Revenue dashboard for instructors.
-- Secure bank withdrawal system.
-
-### 🏢 Enterprise Training
-- HR/Admins assign training to employees and track their progress.
-
-### 🧠 AI-Powered Assessments
-- Auto-grading of quizzes.
-- Certification on course completion.
+✨ **AITM (Academix)** is an AI-integrated learning platform that allows users to:  
+- 🎯 **Learn**: Enroll in curated, AI-recommended courses.  
+- 🧑‍🏫 **Teach**: Create & sell personalized courses with AI-assisted tools.  
+- 💬 **Engage**: Interact with an AI chatbot for instant support & deeper learning.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Key Features  
 
-### 🔧 Backend
-- `Node.js`, `Next.js (App Router)`
-- `MongoDB`
-- `ChatGPT API`, `TensorFlow`, `PyTorch`
-- `AWS`, `Vercel`, `GCP`
+### 🛒 Course Marketplace  
+- Browse & purchase high-quality courses.  
+- AI-driven recommendation engine for personalized learning.  
 
-### 💻 Frontend
-- `React.js`, `Next.js`
-- Responsive design for both desktop and mobile
+### ✍️ AI-Powered Course Creation  
+- Instructors can design video-based & interactive courses.  
+- AI helps generate **content, slides, and quizzes**.  
 
-### 🧠 Applied AI
-- ChatGPT
-- AI cloud services
+### 🤖 AI Chatbot Support  
+- Learners can ask questions anytime.  
+- AI provides summaries & extra resources.  
+
+### 💰 Revenue & Payment System  
+- Instructor dashboard with revenue insights.  
+- Secure **bank withdrawal** integration.  
+
+### 🏢 Enterprise Training  
+- HR/Admins assign training to employees.  
+- Track **progress & completion** in real time.  
+
+### 🧠 AI-Enhanced Assessments  
+- Auto-graded quizzes.  
+- Digital certification upon course completion.  
 
 ---
 
-## 📦 Getting Started
+## 🛠️ Tech Stack  
+
+**🔧 Backend**  
+- `Node.js`, `Next.js (App Router)`  
+- `MongoDB`  
+- `ChatGPT API`, `TensorFlow`, `PyTorch`  
+- `AWS`, `Vercel`, `GCP`  
+
+**💻 Frontend**  
+- `React.js`, `Next.js`  
+- Responsive UI (desktop & mobile)  
+
+**📱 Mobile App**  
+- `React Native` / `Expo`  
+- Cross-platform support (iOS & Android)  
+
+**🧠 Applied AI**  
+- ChatGPT  
+- AI Cloud Services  
+
+---
+
+## 📦 Getting Started  
 
 ```bash
 # Clone the frontend repo
@@ -91,5 +99,5 @@ cd neurolearn_frontend
 # Install dependencies
 npm install
 
-# Start dev server
+# Start development server
 npm run dev
